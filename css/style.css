@@ -81,6 +81,13 @@ a:hover {
 	height: 30px;
 	width: 30px;
 }
+
+.typewrite
+{
+	color: white;
+	font-size: 2.05rem;
+}
+
 @media screen and (max-width: 992px) {
 .mobile-bg {
 	background-color:#74a3fa;
